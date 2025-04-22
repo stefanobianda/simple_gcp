@@ -58,11 +58,11 @@ Hi tuo-username! You've successfully authenticated...
 Ora puoi clonare un repository privato o pubblico:
 
 ```
-git clone git@github.com:tuo-username/tuo-repo.git
+git clone git@github.com:stefanobianda/simple_gcp.git
 ```
 Se è un repo pubblico, puoi anche usare HTTPS:
 
 ```
-git clone https://github.com/tuo-username/tuo-repo.git
+git clone https://github.com/stefanobianda/simple_gcp.git
 ```
 

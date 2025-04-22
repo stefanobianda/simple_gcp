@@ -23,3 +23,8 @@ services:
       - REDIS_PASSWORD=${REDIS_PASSWORD}
     volumes:
       - redis_data:/data
+
+
+volumes:
+  postgres_data:
+  redis_data:

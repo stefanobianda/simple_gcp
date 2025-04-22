@@ -25,7 +25,9 @@ Nome    allow-postgres-redis
 
 Target  Tutte le istanze nella rete (oppure selettivo su tag)
 
-IP  0.0.0.0/0 (o il tuo IP fisso pubblico per più sicurezza)
+IP  0.0.0.0/0 
+
+oppure il tuo IP fisso pubblico per più sicurezza
 
 Porte TCP   5432,6379
 
